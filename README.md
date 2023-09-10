@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<h1>Hello Coursera!</h1>
+Hello Coursera!
 </body>
 </html>
