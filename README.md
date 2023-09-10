@@ -1,5 +1,3 @@
-# coursera-test
-Coursera test repository
 <!DOCTYPE html>
 <html>
 <head>
